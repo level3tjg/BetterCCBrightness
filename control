@@ -1,0 +1,10 @@
+Package: com.level3tjg.betterccbrightness
+Name: BetterCCBrightness
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Add more controls to the expanded brightness CC module
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)

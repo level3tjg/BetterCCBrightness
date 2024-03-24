@@ -1,0 +1,3 @@
+[submodule "Masonry"]
+	path = Masonry
+	url = https://github.com/SnapKit/Masonry
